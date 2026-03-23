@@ -1,0 +1,12 @@
+noobchain\StringUtil.class
+noobchain\Wallet.class
+noobchain\DBUtil.class
+Block.class
+FirstChain.class
+noobchain\Transaction.class
+com\mycompany\blockchain\BlockChain.class
+noobchain\Block.class
+StringUtil.class
+noobchain\TransactionInput.class
+noobchain\NoobChain.class
+noobchain\TransactionOutput.class
